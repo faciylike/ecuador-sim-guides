@@ -58,3 +58,10 @@ layout: default
 
 　　说到底，选择哪种方式通信，就像选择徒步印加古道还是坐火车上马丘比丘——没有绝对的好坏，只有适合与否。希望这份指南能帮你扫清迷雾，在安第斯山脉之间，永远在线，尽情探索。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Ecuador eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/ecuador-data-plans)
